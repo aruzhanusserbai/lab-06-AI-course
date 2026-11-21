@@ -34,7 +34,7 @@ The bare agent shortlisted 356 of 400 profiles (89%) and gave both decisions at 
 - *The fund:* it has legal responsability for automated decision and also reputational cost if decision is unfair.
 - *People who never applied* cause they expected that algorithm will reject them, for example students from regional institutions.
 - *Applicants from institutions that model never saw:* model knows university only by its name ("National", "Research" vs "Provincial", "Teachers'"), and I think it is plausible reason of flagship score advantage.
-- *Applicants with unusual names or programmes:* my refusal rule refused 0 of 400 generated applicants, but real programme like "Information Systems" or name with unusual character could be refused, and I didn't test it.
+- *Applicants with unusual names or programmes:* my refusal rule refused 0 of 400 generated applicants, but real programme like "Decision Sciences" or name with unusual character could be refused, and I didn't test it.
 
 **Who bears the cost of what my sample could not detect.** On decisions nothing exceeded its floor, but n = 40 can't detect decision effect that is below 6 one-sided pairs (15%). If gender pattern (4 vs 0) is real effect of about 10%, my run couldn't confirm it, and people who would pay for it are male-coded applicants near the boundary. Same is for any name-language effect that is smaller than about 3 score points. Order probe showed bigger risk that my floors didn't cover: just the order of the lines tipped 10 of 40 identical applicants out of the shortlist. And this cost goes to whoever is near the boundary, it doesn't matter what is their name or university.
 
